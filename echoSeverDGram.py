@@ -1,7 +1,7 @@
 from socket import *
 import sys
 
-### Authors: Dillon McCullough, Eric Smith, Matthew Collins ###
+### Author: Dillon McCullough ###
 
 """ UDP Server """
 """ Waits for response from client and echos client response back to the client """
